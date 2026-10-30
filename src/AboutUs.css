@@ -1,0 +1,39 @@
+.about-us-container {
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 30px;
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-radius: 16px;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.3);
+  text-align: justify;
+  color: #ffffff;
+}
+
+.about-us-heading {
+  font-size: 32px;
+  font-weight: 800;
+  color: #ffffff;
+  margin-bottom: 8px;
+  text-align: center;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+}
+
+.about-us-description {
+  font-size: 20px;
+  font-style: italic;
+  color: #a7f3d0;
+  margin-bottom: 24px;
+  text-align: center;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.about-us-content {
+  font-size: 16px;
+  line-height: 1.7;
+  margin-bottom: 16px;
+  color: #f1f5f9;
+}
